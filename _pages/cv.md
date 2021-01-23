@@ -13,8 +13,8 @@ Education
 ======
 
 - M.S. in Computer Science, The University of Texas at Dallas, Richardson TX  (2019 - 2021).
-- B.E. in Computer Engineering, Savitribai Phule Pune University(University of Pune), Pune India ( 2015 to 2019).
-- 12th Computer Science(Bifocal) , Dr. Kalmadi Shamarao Junior college, Pune India (2013 to 2015)
+- B.E. in Computer Engineering, Savitribai Phule Pune University(University of Pune), Pune India (2015-2019).
+- 12th Computer Science(Bifocal) , Dr. Kalmadi Shamarao Junior college, Pune India (2013-2015).
 
 Coursework
 ======
@@ -23,7 +23,7 @@ Machine Learning, Computer Vision, Natural Language Processing, Data Representat
 Skills
 ======
 -	Languages: Java, Python, C++/C, PHP, Shell Scripting
--    Web Technology: Javascript, Node JS, React, HTML5, CSS, AJAX, Bootstrap, Ruby on Rails.    
+-    Web Technology: Javascript, Node JS, React, HTML5, CSS, AJAX, Bootstrap, Flask, SpringBoot, Ruby on Rails.    
 -    Databases: Oracle SQL, MYSQL, PostgreSQL, MongoDB,  Firebase,
 -	Tools & Technologies: TensorFlow, NLTK, Keras, numpy, Opencv, Pandas, R/R Studio, scikit-learn, Spark, Hadoop/HDFS, Docker
 -	Methodologies: MVC, Object Oriented Programming, Agile/Scrum Methodologies
@@ -86,4 +86,7 @@ Academic Projects:
 Awards and Leadership:
 ======
 - Best Paper Award - IEI 2019, India
-- Best Research Paper Award - ​ ICCPS 2018 - International Conference on Cyber Physical System,  Chennai, India, April 20-21, 2018
+- Best Research Paper Award - ​ ICCPS 2018 - International Conference on Cyber Physical System,  Chennai, India, April 20-21 
+- Participated in Smart India Hackathon 2018
+- Member of Artificial Intelligence Society at UTDallas
+- Member of Association of Computer Engineers (ACE) at SKNCOE, Pune
