@@ -14,20 +14,25 @@ Education
 
 - M.S. in Computer Science, The University of Texas at Dallas, Richardson TX  (2019 - 2021).
 - B.E. in Computer Engineering, Savitribai Phule Pune University(University of Pune), Pune India (2015-2019).
-- 12th Computer Science(Bifocal) , Dr. Kalmadi Shamarao Junior college, Pune India (2013-2015).
+- 12th Computer Science(Bifocal- Software and Hardware), Dr. Kalmadi Shamarao Junior college, Pune India (2013-2015).
 
 Coursework
 ======
-Machine Learning, Computer Vision, Natural Language Processing, Data Representation, Big Data, Implementation of Data Structures and Algorithms, Theory of Computation, Artificial Intelligence, Big Data Analytics, Design & Analysis of Algorithms, Databases, Web Programming Languages.
+Design & Analysis of Algorithms, Web Programming Languages, Databases, Machine Learning, Computer Vision, Natural Language Processing, Data Representation, Implementation of Data Structures and Algorithms, Theory of Computation, Artificial Intelligence, Big Data Analytics, Software Defined Networks, Object Oriented Analysis & Design
 
 Skills
 ======
--	Languages: Java, Python, C++/C, PHP, Shell Scripting
--    Web Technology: Javascript, Node JS, React, HTML5, CSS, AJAX, Bootstrap, Flask, SpringBoot, Ruby on Rails.    
--    Databases: Oracle SQL, MYSQL, PostgreSQL, MongoDB,  Firebase,
--	Tools & Technologies: TensorFlow, NLTK, Keras, numpy, Opencv, Pandas, R/R Studio, scikit-learn, Spark, Hadoop/HDFS, Docker
--	Methodologies: MVC, Object Oriented Programming, Agile/Scrum Methodologies
--	MOOCs: Deep Learning Specialization in Coursera at deeplearning.ai by Dr. Andrew Ng , AI for Medicine Specialization in Coursera at deeplearning.ai by Pranav Rajpurkar  
+-	Languages: Java, Python, C#, C++, C, PHP, Shell Scripting
+-    Web Technology: Javascript, Node JS, React JS, HTML5, CSS, AJAX, Bootstrap, Flask, SpringBoot, ASP.NET Core, Restfull APIs 
+-    Databases: Oracle SQL, MYSQL, PostgreSQL, MongoDB,  Firebase, Cassandra
+-	Machine Learning & Deep Learning: Supervised, Unsupervised model, Computer Vision: CNN model, Object Detection, OpenCV, Computer Vision, Natural Language Processing: RNN, Encoder-Decoder,Bert
+-   Deployment - Heroku, Netify, AWS EC2, AWS Elastic Beanstalk
+-   Big Data - PySpark, Hadoop, HDFS, Elastic Search, Kafka 
+-   Architectural Patterns: Client-Server Patterns, MVC, Broker Pattern 
+-   Version Controlling - Git, Github
+-	Methodologies: Agile Scrum Methodologies, Waterfall, Rapid Prototyping
+- T
+-   MOOCs: Deep Learning Specialization in Coursera at deeplearning.ai by Dr. Andrew Ng , AI for Medicine Specialization in Coursera at deeplearning.ai by Pranav Rajpurkar  
  
 Academic Projects:
 ======
