@@ -22,23 +22,27 @@ Design & Analysis of Algorithms, Web Programming Languages, Databases, Machine L
 
 Skills
 ======
--	  Languages: Java, Python, C#, C++, C, PHP, Shell Scripting
--   Web Technology: Javascript, Node JS, React JS, HTML5, CSS, AJAX, Bootstrap, Flask, SpringBoot, ASP.NET Core, Restfull APIs 
--   Databases: Oracle SQL, MYSQL, PostgreSQL, MongoDB,  Firebase
--	  Machine Learning & Deep Learning: Supervised, Unsupervised model, Computer Vision: CNN model, Object Detection, OpenCV, Computer Vision, Natural Language Processing: RNN, Encoder-Decoder,Bert
--   Deployment - Heroku, Netify, AWS EC2, AWS Elastic Beanstalk
--   Big Data - PySpark, Hadoop, HDFS, Elastic Search, Kafka 
--   Architectural Patterns: Client-Server Patterns, MVC, Broker Pattern 
--   Version Controlling - Git, Github
--   Testing - Unit Testing, functional testing, Integeration Testing
--	  Methodologies: Agile Scrum Methodologies, Waterfall, Rapid Prototyping
+-	  Languages : Java, Python, C#, C++, C, PHP, Shell Scripting
+-   Web Technology : Javascript, Node JS, React JS, HTML5, CSS, AJAX, Bootstrap, Flask, SpringBoot, ASP.NET, Restfull APIs, GraphQL  
+-   Databases : Oracle SQL, MYSQL, PostgreSQL, MongoDB,  Firebase
+-	  Machine Learning & Deep Learning : Regression linaer-logistic ,Naive Bayes, Decision Tree, Random Forest, SVM, Kmeans, KNN, Neural Network
+-	  Computer Vision: Pytorch, Keras, image processing, CNN model, Object Detection, OpenCV
+-	  Natural Language Processing: Tokenization, Lemmatization, Topic Modeling, Word Embeddings, TF-IDF , RNN, Encoder-Decoder,Bert
+-   Amazon Web Services : IAM, EC2, ELB, RDS, Aurora, ElasticCache, Route 53, VPC, S3, CloudFront, Fargate, Elastic Beanstalk, CIDI, CloudWatch, X-ray, CloudTrail, SQS, SNS, kinesis, Lamda, DynamoDB, API Gateway, SAM, Cognito Pool, Step Function, AWS Security & Encryption. 
+-   Big Data : PySpark, Hadoop, HDFS, Elastic Search, Kafka
+-   Visualisation : Tableau, Matplotlib, Seaborn, plotly 
+-   Testing : Unit Testing, functional testing, Integeration Testing
+-	  Methodologies : Agile Scrum Methodologies, Waterfall, Rapid Prototyping, Object Oriented Programming
+-	  Concepts :  Computer Netorking Protocols, Microprocessor, Internet of Things protocols and apps, Shell Scripting, Bash, System Programming
 
 Certification 
 =====
--   AWS Cloud Practitioner Essentials 
+-   AWS Developer Associate - Expected June 2021
+-   AWS Cloud Practitioner Essentials  
 -   Deep Learning Specialization in Coursera at deeplearning.ai by Dr. Andrew Ng
 -   AI for Medicine Specialization in Coursera at deeplearning.ai by Pranav Rajpurkar
- 
+-   Certified Internet of Things Professional - 2018
+
 Academic Projects:
 ======
 - MACHINE LEARNING
