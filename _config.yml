@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shubham P Deshpande"
+title                    : "Tanaya M Panditrao"
 title_separator          : "-"
-name                     : &name "Shubham Deshpande"
+name                     : &name "Tanaya Panditrao"
 description              : &description "Master's in Computer Science at The University of Texas at Dallas"
-url                      : https://shubhamdeshpande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tanayapanditrao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shubhamdeshpande.github.io"
+repository               : "tanayapanditrao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shubham Deshpande"
+  name             : "Tanaya Panditrao"
   avatar           : "profile.jpg"
   bio              : "Master's in Computer Science at The University of Texas at Dallas"
   location         : "Richardson, Texas"
   employer         :
   googlescholar    : 
-  email            : shubhamdeshpande123@gmail.com
+  email            : tanaya.panditrao@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShubhamDeshpande"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shubhamdeshpande"
+  linkedin         : ""
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Randm_forest"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
