@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Masters of Computer Science Graduate Student in [The University of Texas at Dallas](https://www.utdallas.edu). My area of interest is Web Development, Machine learning, Computer Vision and Deep Learning. I am graduating in graduate in May 2021.
+I am a Graduate Student majoring in Computer Science at [The University of Texas at Dallas](https://www.utdallas.edu). My area of interest is Web Development, Machine learning and Deep Learning. I will be graduating in May 2023.
 
 
 My area of interests are:
@@ -17,6 +17,5 @@ My area of interests are:
 * Full Stack Web Application Development  
 * API Development
 * Machine Learning
-* Computer Vision
 * Deep Learning
 * Big Data
